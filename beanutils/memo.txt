@@ -1,0 +1,42 @@
+
+
+
+
+https://repo.maven.apache.org/maven2/
+
+
+RESULST
+
+
+プロパティと全く同じ: firstName=FN,lastName=LN,email=xxxx@example.com
+全部小文字: firstname=null,lastname=null,email=xxxx@example.com
+先頭一文字だけ大文字: Firstname=null,Lastname=null,Email=null
+ワード先頭一文字だけ大文字: FirstName=null,LastName=null,Email=null
+全部大文字: FIRSTNAME=null,LASTNAME=null,EMAIL=null
+先頭二文字だけ大文字: FIrstname=null,LAstname=null,EMail=null
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+プロパティと全く同じ: firstName=FN,lastName=LN,email=xxxx@example.com
+全部小文字: firstname=FN,lastname=LN,email=xxxx@example.com
+先頭一文字だけ大文字: Firstname=FN,Lastname=LN,Email=xxxx@example.com
+ワード先頭一文字だけ大文字: FirstName=FN,LastName=LN,Email=xxxx@example.com
+全部大文字: FIRSTNAME=FN,LASTNAME=LN,EMAIL=xxxx@example.com
+先頭二文字だけ大文字: FIrstname=FN,LAstname=LN,EMail=xxxx@example.com
+
+
+
+1.6/1.0
+プロパティと全く同じ: firstName=FN,lastName=LN,email=xxxx@example.com
+全部小文字: firstname=null,lastname=null,email=xxxx@example.com
+先頭一文字だけ大文字: Firstname=null,Lastname=null,Email=null
+ワード先頭一文字だけ大文字: FirstName=null,LastName=null,Email=null
+全部大文字: FIRSTNAME=null,LASTNAME=null,EMAIL=null
+先頭二文字だけ大文字: FIrstname=null,LAstname=null,EMail=null
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+プロパティと全く同じ: firstName=FN,lastName=LN,email=xxxx@example.com
+全部小文字: firstname=FN,lastname=LN,email=xxxx@example.com
+先頭一文字だけ大文字: Firstname=FN,Lastname=LN,Email=xxxx@example.com
+ワード先頭一文字だけ大文字: FirstName=FN,LastName=LN,Email=xxxx@example.com
+全部大文字: FIRSTNAME=FN,LASTNAME=LN,EMAIL=xxxx@example.com
+先頭二文字だけ大文字: FIrstname=FN,LAstname=LN,EMail=xxxx@example.com
+
+
